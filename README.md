@@ -1,0 +1,37 @@
+## Hallo, I'm FroostySnoowman!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+<h1>Welcome to my humble abode.</h1> 
+
+<img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.</div>
+
+## :computer: Technologies I Love
+* Anything that teaes my brain.
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FroostySnoowman&layout=compact">
+
+## Programming Languages
+<img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/python2.png' height='30'/> <img src='https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/js.svg' width='30'/>
+ <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/sql.svg' width='30'/> 
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'FroostySnoowman'
+		current_work = 'Writing code'
+		hobbies = [
+				'Wrting Code',
+				'Playing Tennis',
+				'Being up all night chasing that ONE bug...'
+			]
+ ```
+ 
+## Current Works
+ * Lead Developer @ [CraftDownUnder](https://craftdownunder.co).
+ * Operations @ [Atlas Rust](https://discord.gg/atlasrust).
+ * Supervisor @ [HumbleServers](https://humbleservers.com).
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])
+ 
+ 

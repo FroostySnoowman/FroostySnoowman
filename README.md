@@ -21,7 +21,7 @@
  	user = 'FroostySnoowman'
 		current_work = 'Writing code'
 		hobbies = [
-				'Wrting Code',
+				'Writing Code',
 				'Playing Tennis',
 				'Being up all night chasing that ONE bug...'
 			]

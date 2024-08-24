@@ -34,5 +34,5 @@
  * Freelancer @ DevRoom, Arcane Studios, Orbital Studios, Premier Studios, Mixelate, Candor, Devnics, Spark Studios, Paragon Services, and More.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])
- 
- 
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=FroostySnoowman&repo=FroostySnoowman&countColor=%237B1E7A)

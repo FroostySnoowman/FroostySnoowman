@@ -1,5 +1,7 @@
 ## Hallo, I'm FroostySnoowman!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=FroostySnoowman&repo=FroostySnoowman&countColor=%237B1E7A)
+
 <h1>Welcome to my humble abode.</h1> 
 
 <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -34,5 +36,3 @@
  * Freelancer @ DevRoom, Arcane Studios, Orbital Studios, Premier Studios, Mixelate, Candor, Devnics, Spark Studios, Paragon Services, and More.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=FroostySnoowman&repo=FroostySnoowman&countColor=%237B1E7A)

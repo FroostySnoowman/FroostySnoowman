@@ -32,7 +32,6 @@
 ## Current Works
  * CEO @ NexusServices (Coming Soon)
  * Lead Developer @ [CraftDownUnder](https://craftdownunder.co).
- * Supervisor @ [HumbleServers](https://humbleservers.com).
  * Freelancer @ DevRoom, Arcane Studios, Orbital Studios, Premier Studios, Mixelate, Candor, Devnics, Spark Studios, Paragon Services, and More.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])

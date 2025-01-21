@@ -30,8 +30,10 @@
  ```
  
 ## Current Works
+ * CEO and Lead Developer @ [TicketsX](https://ticketsx.xyz)
+ * CEO @ [CookieHosting](https://cookie.host)
  * CEO @ NexusServices (Coming Soon)
- * Lead Developer @ [CraftDownUnder](https://craftdownunder.co).
- * Freelancer @ DevRoom, Arcane Studios, Orbital Studios, Premier Studios, Mixelate, Candor, Devnics, Spark Studios, Paragon Services, and More.
+ * Lead Developer @ [CraftDownUnder](https://craftdownunder.co)
+ * Freelancer @ DevRoom, Arcane Studios, Premier Studios, Candor Studios, Rollerite, Spark Studios, and More.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])

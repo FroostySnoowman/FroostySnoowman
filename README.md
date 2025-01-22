@@ -36,4 +36,10 @@
  * Lead Developer @ [CraftDownUnder](https://craftdownunder.co)
  * Freelancer @ DevRoom, Arcane Studios, Premier Studios, Candor Studios, Rollerite, Spark Studios, and More.
 
+## :wrench: System Administration and IT Support
+In addition to software development, I also work as a **System Administrator** and **IT Support Specialist**:
+- **IT Service Desk** @ [Utah State University](https://usu.edu): Providing technical support to students and staff, troubleshooting hardware and software issues, and ensuring smooth IT operations.
+- Managing game hosting systems for **CookieHosting**, where I handle server provisioning, maintenance, and optimization for a seamless gaming experience.
+- Skilled in setting up and maintaining systems, troubleshooting networks, and ensuring 24/7 availability of services.
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])

@@ -30,9 +30,8 @@
  ```
  
 ## Current Works
+ * CEO @ [ServicesX](https://servicesx.net)
  * CEO and Lead Developer @ [TicketsX](https://ticketsx.xyz)
- * CEO @ [CookieHosting](https://cookie.host)
- * CEO @ NexusServices (Coming Soon)
  * Lead Developer @ [CraftDownUnder](https://craftdownunder.co)
  * Freelancer @ DevRoom, Arcane Studios, Premier Studios, Candor Studios, Rollerite, Spark Studios, and More.
 

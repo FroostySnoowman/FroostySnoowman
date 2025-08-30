@@ -30,6 +30,7 @@
  ```
  
 ## Current Works
+ * CEO @ [MyBreakPoint](https://mybreakpoint.app)
  * CEO @ [ServicesX](https://servicesx.net)
  * CEO and Lead Developer @ [TicketsX](https://ticketsx.xyz)
  * Lead Developer @ [CraftDownUnder](https://craftdownunder.co)

@@ -11,8 +11,6 @@
 ## :computer: Technologies I Love
 * Anything that teases my brain.
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FroostySnoowman&layout=compact">
-
 ## Programming Languages
 <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/python2.png' height='30'/> <img src='https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/js.svg' width='30'/>
  <img src = 'https://github.com/FroostySnoowman/FroostySnoowman/blob/main/images/sql.svg' width='30'/> 
@@ -42,4 +40,4 @@ In addition to software development, I also work as a **System Administrator** a
 - Managing game hosting systems for **CookieHosting**, where I handle server provisioning, maintenance, and optimization for a seamless gaming experience.
 - Skilled in setting up and maintaining systems, troubleshooting networks, and ensuring 24/7 availability of services.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FroostySnoowman&show_icons=true&hide=[%22issues%22])
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=FroostySnoowman&theme=tokyo-night&hide_border=true)

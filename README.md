@@ -33,6 +33,7 @@
 ## Current Works
  * CEO @ [MyBreakPoint](https://mybreakpoint.app)
  * CEO @ [ServicesX](https://servicesx.net)
+ * CEO & Lead Developer @ [Boardify](https://github.com/Break-Point-Technologies/Boardify)
  * CEO and Lead Developer @ [TicketsX](https://ticketsx.xyz)
  * Lead Developer @ [CraftDownUnder](https://craftdownunder.co)
  * Freelancer @ DevRoom, Arcane Studios, Premier Studios, Candor Studios, Rollerite, Spark Studios, and More.

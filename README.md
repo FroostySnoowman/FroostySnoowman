@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="images/amazon.png" alt="Amazon" width="256" height="256"/>
+      <img src="images/amazon.svg" alt="Amazon" width="64" height="64"/>
     </td>
     <td>
       <strong>Software Development Engineer Intern</strong><br/>
@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="images/usu.png" alt="USU" width="256" height="256"/>
+      <img src="images/usu.svg" alt="USU" width="64" height="64"/>
     </td>
     <td>
       <strong>IT Service Desk</strong> · <em>Previous</em><br/>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="images/humbleservers.png" alt="HumbleServers" width="256" height="256"/>
+      <img src="images/humbleservers.svg" alt="HumbleServers" width="64" height="64"/>
     </td>
     <td>
       <strong>System Administration & Game Hosting</strong> · <em>Previous</em><br/>

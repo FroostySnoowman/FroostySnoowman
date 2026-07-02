@@ -100,6 +100,7 @@ class WhoAmI:
 | **CEO & Lead Developer** | [Boardify](https://github.com/FroostySnoowman/Boardify) |
 | **CEO & Lead Developer** | [TicketsX](https://ticketsx.xyz) |
 | **Lead Developer** | [CraftDownUnder](https://craftdownunder.co) |
+| **Lead Developer** | [PortfolioShack](https://portfolioshack.com) |
 | **Freelancer** | DevRoom, Arcane Studios, Premier Studios, Candor Studios, Rollerite, Spark Studios, and more |
 
 **Portfolio:** [froostysnoowman.github.io](https://froostysnoowman.github.io)
